@@ -32,16 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulalamurari&show_icons=true&locale=en" alt="k-murari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kulalamurari&" alt="k-murari" /></p>
- <b> 
-   <p>
-  <h2>This is the Problems for Java Beginners </h2> 
-   </b>
-<br>
- <h3> Methods include: </h3> <br>
-    --> Image Steganography <br>
-    --> Audio Steganography <br>
-    --> File Crytography <br>
-    --> Base64 Cryptography <br>
-    </p>
+ 
+  
 
 
